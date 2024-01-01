@@ -1,5 +1,6 @@
 # ETL-Telecom-Case-Study-SSIS
 📋 Project Description:
+
 The telecom company had specific requirements that were successfully addressed in this project:
 
 1️⃣ Real-time File Processing: Files stored in a designated folder are automatically picked up every 5 minutes for processing. The pipeline ensures seamless handling of these files and moves them to the appropriate destination folder after processing.
