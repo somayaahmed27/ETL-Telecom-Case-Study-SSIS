@@ -17,6 +17,7 @@ The telecom company had specific requirements that were successfully addressed i
 
 
 ⚡ Project Values:
+
 This project brings several valuable contributions to the telecom company:
 
 •	Analysis of business demands: Thorough analysis of the company's requirements was conducted to ensure alignment with their specific needs and objectives.
